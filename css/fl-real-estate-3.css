@@ -1,0 +1,99 @@
+/**
+ * Title: Real estate 3 Flaticon Pack
+ * Author: Teela Cunningham
+ * Source: http://www.flaticon.com/packs/real-estate-3
+ * License:  CC BY 3.0 (http://creativecommons.org/licenses/by/3.0/)
+ */
+
+@font-face {
+	font-family: "fl-real-estate-3";
+	src: url("../fonts/fl-real-estate-3.eot");
+	src: url("../fonts/fl-real-estate-3.eot#iefix") format("embedded-opentype"),
+	url("../fonts/fl-real-estate-3.woff") format("woff"),
+	url("../fonts/fl-real-estate-3.ttf") format("truetype"),
+	url("../fonts/fl-real-estate-3.svg") format("svg");
+	font-weight: normal;
+	font-style: normal;
+}
+
+.fl-real-estate-3-ico,
+[class^="fl-real-estate-3-"]:before, [class*=" fl-real-estate-3-"]:before,
+[class^="fl-real-estate-3-"]:after, [class*=" fl-real-estate-3-"]:after {   
+	font-family: 'fl-real-estate-3';
+    font-size: inherit;
+	font-weight: 400;
+	font-style: normal;
+}
+
+.fl-real-estate-3-door25:before {
+	content: "\e000";
+}
+.fl-real-estate-3-door26:before {
+	content: "\e001";
+}
+.fl-real-estate-3-fence12:before {
+	content: "\e002";
+}
+.fl-real-estate-3-fence13:before {
+	content: "\e003";
+}
+.fl-real-estate-3-house143:before {
+	content: "\e004";
+}
+.fl-real-estate-3-house144:before {
+	content: "\e005";
+}
+.fl-real-estate-3-house146:before {
+	content: "\e006";
+}
+.fl-real-estate-3-house147:before {
+	content: "\e007";
+}
+.fl-real-estate-3-house148:before {
+	content: "\e008";
+}
+.fl-real-estate-3-house149:before {
+	content: "\e009";
+}
+.fl-real-estate-3-house151:before {
+	content: "\e00a";
+}
+.fl-real-estate-3-house152:before {
+	content: "\e00b";
+}
+.fl-real-estate-3-house153:before {
+	content: "\e00c";
+}
+.fl-real-estate-3-key173:before {
+	content: "\e00d";
+}
+.fl-real-estate-3-key175:before {
+	content: "\e00e";
+} 
+.fl-real-estate-3-location-1:before {
+	content: "\e00f";
+}
+.fl-real-estate-3-mailbox27:before {
+	content: "\e010";
+}
+.fl-real-estate-3-mailbox28:before {
+	content: "\e011";
+}
+.fl-real-estate-3-plan1:before {
+	content: "\e012";
+}
+.fl-real-estate-3-plan:before {
+	content: "\e013";
+}
+.fl-real-estate-3-sold2:before {
+	content: "\e014";
+}
+.fl-real-estate-3-sold3:before {
+	content: "\e015";
+}
+.fl-real-estate-3-sold4:before {
+	content: "\e016";
+}
+.fl-real-estate-3-sold5:before {
+	content: "\e017";
+}
